@@ -1,6 +1,8 @@
 # Cupcake Cafe
 
-Text-based cafe ordering robo. Built while learning Python with NetworkChuck.
+Text-based cafe ordering bot. Built while learning Python with NetworkChuck. I added a few things on top of the tutorial
+(profanity check, typing effect, kaomoji responses).
+
 
 ## How to run
 
